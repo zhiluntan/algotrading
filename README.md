@@ -18,7 +18,7 @@ This file discusses an automated trading bot I wrote for a simple strategy, whic
 
 ## 3. Backtesting with Backtrader
 Backtrader is a library that aims to streamline the backtesting process. This file shows some sample strategies that I backtested with backtrader.  
-[Click here to view Backtesting with Backtrader](https://github.com/zhiluntan/algotrading/tree/master/Backtest%20(Backtrader)
+[Click here to view Backtesting with Backtrader](https://github.com/zhiluntan/algotrading/tree/master/Backtest%20(Backtrader))
 
 ## 4. Backtesting with Pandas
 This project was conceived as when working in a corporate actuarial environment, often times projections are cross checked using two or even more methods, e.g. one in actuarial software (e.g. Prophet) and another one in Excel. I believe using multiple methods to cross check adds value, especially if I am serious about taking the strategy live. Thus this file shows a basic backtesting framework to check against backtrader, built in pandas.  
