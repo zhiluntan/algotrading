@@ -1,7 +1,7 @@
 # Algorithmic Trading Projects
 Contact: zhilun296@gmail.com  
 
-Hello and welcome to my repository! I apologize if any of the presentation/nomenclature of variables/documentation etc is not proper as I am self taught and still new to this, however, I sincerely hope that this will suffice as proof that I have gotten my feet wet with algorithmic trading and that I am willing to learn.  
+Hello and welcome to my repository! I apologize if any of the presentation/nomenclature/documentation etc is not proper as I am self taught and still new to this, however, I sincerely hope that this will suffice as proof that I have gotten my feet wet with algorithmic trading and that I am willing to learn.  
 
 Please let me know if you have any questions. Any guidance or feedback would be truly appreciated. Thank you so much!  
 
