@@ -29,5 +29,5 @@ This is a short project aimed to show how minute level data can be collected fro
 [Click here to view Data Collection](https://github.com/zhiluntan/algotrading/tree/master/Data%20Collection)
 
 ## 6. Modern Portfolio Theory
-This is a quick exercise to see how Berkshire Hathaway's portfolio would be constructed under Modern Portfolio Theory (if 1. variance is to be minimized or 2. if Sharpe Ratio is to be maximized).
+This is a quick exercise to see how Berkshire Hathaway's portfolio would be constructed under Modern Portfolio Theory (if 1. variance is to be minimized or 2. if Sharpe Ratio is to be maximized).  
 [Click here to view Modern Portfolio Theory](https://github.com/zhiluntan/algotrading/tree/master/Modern%20Portfolio%20Theory)
